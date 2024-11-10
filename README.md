@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Roshan</h1>
 <h3 align="center">Fullstack developer</h3>
 
+- 🔭 I’m currently working on [https://flare.heliumbuilder.com/](https://flare.heliumbuilder.com/)
+
 - 📫 How to reach me **roshannkumarr99@gmail.com**
+
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
